@@ -1,17 +1,3 @@
-# Marketplace Site With React and Real-time Chat (Amazon Clone)
-
-Read the full tutorial here:
-
-[**>> How to Build a Marketplace Site With React (Amazon Clone)**](https://www.cometchat.com/tutorials/build-marketplace-site-with-react-and-real-time-chat-amazon-clone/?utm_source=github&utm_medium=link&utm_campaign=igorasilveira-marketplace-cometchat)
-
-This example shows how to build an marketplace like Amazon where you can chat with the product's seller to answer your queries:
-
-<div>
-<img alt="Desktop Demo" src="./screenshots/desktop.gif" width=600>
-
-<img alt="Mobile Demo" src="./screenshots/mobile.gif" width=200>
-</div>
-
 ## Technology
 This demo uses:
 
