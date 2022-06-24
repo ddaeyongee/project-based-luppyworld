@@ -7,7 +7,7 @@ const IndexPage = () => {
   return (
     <div
       style={{
-        backgroundImage: `url("/hero.jpg")`,
+        backgroundImage: `url("/logo_1.jpg")`,
       }}
       className="w-full h-full pt-10 md:pt-32 bg-no-repeat bg-contain"
     >
